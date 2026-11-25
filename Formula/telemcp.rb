@@ -1,8 +1,8 @@
 class Telemcp < Formula
   desc "Local Telegram archive with live sync and read-only MCP server"
   homepage "https://github.com/mukhanov/telemcp"
-  url "https://github.com/mukhanov/telemcp/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "4ac798845a5e2629085f1a7ccabf17333d002a5b4d2bc91972b372fdb10a49d7"
+  url "https://github.com/mukhanov/telemcp/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "49955b1c6fa521960acc16041f14aaa2ca865269a633a86927cc797b1692834a"
   license "MIT"
 
   livecheck do
